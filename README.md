@@ -1,16 +1,14 @@
-## Hi there 👋
+#  Olá, eu sou o Luciano Guimarães Fortes!
 
-<!--
-**LUCIANOGFORTES02/LUCIANOGFORTES02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Formando em Ciência da Computação pela UFPI**  
+ **Desenvolvedor apaixonado por tecnologia e inovação**  
+☁️ Atualmente desenvolvendo aplicações na **AWS** com **React** e **Node.js**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tecnologias que domino
+- **Frontend:** React, Angular, Vue.js  
+- **Backend:** Node.js, express  
+- **Banco de Dados:** PostgreSQL
+- **Ferramentas:** Prisma, Docker  
+  
